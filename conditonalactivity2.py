@@ -30,7 +30,7 @@ else:
 def petType():
      userTyped=woof("pet type is dog")
 if:
-    userType=woof
+    userType=woof="{?-}"
     print('pet type is dog')
 else
      print('pet type is cat')
