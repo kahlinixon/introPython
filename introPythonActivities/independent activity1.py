@@ -71,4 +71,4 @@ book_price=10.00
 
 def list_of_items():
     user_item=input('what would you like to add')
-    int('1.00',+'3.00',+'10.00')
+    (apple_price+orange_price+book_price)

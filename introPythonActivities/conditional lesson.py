@@ -32,3 +32,13 @@ def login_password():
         print('sorry, incorrect password.')
 
 #login_password() 
+
+def data_types():
+   user_types=4
+    
+    print('that is a integer')
+   if user_types=float
+print('that is a float')
+else 
+user_types=str
+print('that is a string')
