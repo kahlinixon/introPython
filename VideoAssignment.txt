@@ -1,17 +1,10 @@
 Eariest comuting:Crash Course Computer Science #1:
+Three things that i learned is about the Abacus.The abacus was the earliest 
+reconized device for computing.Mesopotamia was where the abacus was made. Lastly The abacus was made in 2500BCE.The abacus is a device as it is the earliest reconized program.
 
-1.The earliest reconized device for computing was the abacus
-2.The abacus was made in Mesopotamia
-3.The abacus was made in 2500 BCE
 
 Early programing:
-
-1.The first General Putpose eletronic computer was the eniac
-2.The Eniac was made in 1946
-3.The Eniac could take 3 weeks for the program to run
+Three things that I learned in the video was about the eniac. The eniac was the first General Putpose eletronic computer. The eniac was also made in 1946.And lastly the Eniac took 3 weeks for the program to run.The eniac was a thing to help programs run and it is pretty impressive even thoiugh it took 3 weeks.
 
 Programming basics:
-
-1.All programing need proper syntax for it to work
-2.The while loop expresses the loop to be in a spot
-3.The while,for, and return loop all makes up 1 function
+The programing basics consists of loops.THe while look expresses the loop.All programming needs proper syntax.And the while,for,and return loiop makes up 1 singular function.The basics of programming mainly consists of loops.
