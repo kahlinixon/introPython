@@ -1,0 +1,19 @@
+1. List and explain three 3 reasons why programmers write documentation. 
+1.Because documentation helps the programers with their program
+2. it makes the the code clean
+3.it makes things easier
+2. In your own words, describe what a README.md document is.
+A README.md document is to provide orientation for engineers browsing your code, especially first-time users.
+3. Based on what your read, what are four (4) things that should be in a README document. 
+A general description of the system or project.
+The project status is important if the project is still in development. ...
+The requirements on the development environment for integration.
+A guide to installation and use.
+4. Name and describe three (3) reasons why programmers write commmit messages when using GitHub.
+To describe what the code is
+to help understand the code
+to show what they are doing
+5. Describe three things (3) negative outcomes that could happen if a programmer has bad or no documentation.
+The code can get messed up
+the code can be confusing
+the program can have problems
