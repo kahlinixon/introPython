@@ -1,0 +1,1 @@
+The calculator project was kinda easy.The code was the only hard part and if i had time i would make more functions.I chose a calculator because i thought it was going to be easy and i believe it could make  a impact to the people who dont know math.
