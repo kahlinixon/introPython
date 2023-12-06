@@ -40,47 +40,7 @@ print(word)
 # 10. Create three (3) seperate functions that will do addition, subtraction, and multiplication respectively. 
 # each of these functions should take two (2) arguments. When the user passes these arguments into the function, they will be
 # calculated together and return the output in your terminal. 
-def add(x, y):
-    return x - y
 
-
-def multiply(x, y):
-    return x * y
-
-
-print("Select operation.")
-print("1.Add")
-print("2.Subtract")
-print("3.Multiply")
-
-
-while True:
-    
-    choice = input("Enter choice(1/2/3): ")
-
-    if choice in ('1', '2', '3'):
-        try:
-            num1 = float(input("Enter first number: "))
-            num2 = float(input("Enter second number: "))
-        except ValueError:
-            print("Invalid input. Please enter a number.")
-            continue
-
-        if choice == '1':
-            print(num1, "+", num2, "=", add(num1, num2))
-
-        elif choice == '2':
-            print(num1, "-", num2, "=", subtract(num1, num2))
-
-        elif choice == '3':
-            print(num1, "*", num2, "=", multiply(num1, num2))
-
-       
-        next_calculation = input("Let's do next calculation? (yes/no): ")
-        if next_calculation == "no":
-          break
-    else:
-        print("Invalid Input")
 
 # 11. What is the difference between a function argument and a function parameter. 
 'the diffrence between a function parameter and a function argument is that a function parameter is the names listed in the function definition while function arguments are the real values passed to and received by the function.'
