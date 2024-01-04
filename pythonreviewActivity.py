@@ -6,6 +6,6 @@
 #3.input
 
 #Assignment
-#1.Arithmetic because you calculate numbers 
+#1.Arithmetic because you calculate numbers
 #2.Compparrison operator because you are comarint the age
 #3.Assignment operator because it assigns the reveration of the user
