@@ -26,8 +26,8 @@ def elevator(floor):
         print("Floor doesn't exist. Please enter a valid floor number.")
 
 # Example usage:
-user_input = input("Enter floor number or letter: ")
-elevator(user_input)
+#user_input = input("Enter floor number or letter: ")
+#elevator(user_input)
 
 #user_input = input("Enter floor number or letter: ")
 #elevator(user_input)
